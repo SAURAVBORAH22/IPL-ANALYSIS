@@ -1,0 +1,101 @@
+POS,PLAYER,Ov,Runs,Wkts,SR,Against,Venue,Match Date
+1,VarunChakravarthy,4,20,5,4.80,DC,Zayed Cricket Stadium,24 October 2020
+2,JaspritBumrah,4,14,4,6.00,DC,Dubai International Cricket Stadium,05 November 2020
+3,TrentBoult,4,18,4,6.00,CSK,Sharjah Cricket Stadium,23 October 2020
+4,JaspritBumrah,4,20,4,6.00,RR,Zayed Cricket Stadium,06 October 2020
+5,KagisoRabada,4,24,4,6.00,RCB,Dubai International Cricket Stadium,05 October 2020
+6,ChrisMorris,4,26,4,6.00,RR,Dubai International Cricket Stadium,17 October 2020
+7,KagisoRabada,4,29,4,6.00,SRH,Zayed Cricket Stadium,08 November 2020
+8,PatCummins,4,34,4,6.00,RR,Dubai International Cricket Stadium,01 November 2020
+9,RashidKhan,4,7,3,8.00,DC,Dubai International Cricket Stadium,27 October 2020
+10,MohammedSiraj,4,8,3,8.00,KKR,Zayed Cricket Stadium,21 October 2020
+11,RashidKhan,4,12,3,8.00,KXIP,Dubai International Cricket Stadium,08 October 2020
+12,RashidKhan,4,14,3,8.00,DC,Zayed Cricket Stadium,29 September 2020
+13,JaspritBumrah,4,14,3,8.00,RCB,Zayed Cricket Stadium,28 October 2020
+14,MohammadShami,4,15,3,8.00,DC,Dubai International Cricket Stadium,20 September 2020
+15,LockieFerguson,4,15,3,8.00,SRH,Zayed Cricket Stadium,18 October 2020
+16,PatCummins,4,17,3,8.00,DC,Zayed Cricket Stadium,24 October 2020
+17,ChrisJordan,4,17,3,8.00,SRH,Dubai International Cricket Stadium,24 October 2020
+18,JaspritBumrah,4,17,3,8.00,DC,Dubai International Cricket Stadium,31 October 2020
+19,YuzvendraChahal,4,18,3,8.00,SRH,Dubai International Cricket Stadium,21 September 2020
+20,JofraArcher,4,19,3,8.00,DC,Dubai International Cricket Stadium,14 October 2020
+21,ChrisMorris,4,19,3,8.00,CSK,Dubai International Cricket Stadium,10 October 2020
+22,SamCurran,3,19,3,6.00,RCB,Dubai International Cricket Stadium,25 October 2020
+23,TrentBoult,4,21,3,8.00,DC,Dubai International Cricket Stadium,31 October 2020
+24,MuruganAshwin,3,21,3,6.00,RCB,Dubai International Cricket Stadium,24 September 2020
+25,ArshdeepSingh,3.5,23,3,7.66,SRH,Dubai International Cricket Stadium,24 October 2020
+26,YuzvendraChahal,4,24,3,8.00,RR,Zayed Cricket Stadium,03 October 2020
+27,JaspritBumrah,4,24,3,8.00,KXIP,Dubai International Cricket Stadium,18 October 2020
+28,JofraArcher,4,24,3,8.00,DC,Sharjah Cricket Stadium,09 October 2020
+29,RahulTewatia,4,25,3,8.00,KKR,Dubai International Cricket Stadium,01 November 2020
+30,JasonHolder,4,25,3,8.00,RCB,Zayed Cricket Stadium,06 November 2020
+31,KagisoRabada,4,26,3,8.00,CSK,Dubai International Cricket Stadium,25 September 2020
+32,MarcusStoinis,3,26,3,6.00,SRH,Zayed Cricket Stadium,08 November 2020
+33,PrasidhKrishna,4,29,3,8.00,KXIP,Zayed Cricket Stadium,10 October 2020
+34,RavichandranAshwin,4,29,3,8.00,MI,Dubai International Cricket Stadium,05 November 2020
+35,RaviBishnoi,3,29,3,6.00,SRH,Dubai International Cricket Stadium,08 October 2020
+36,TrentBoult,4,30,3,8.00,DC,Dubai International Cricket Stadium,10 November 2020
+37,RaviBishnoi,4,32,3,8.00,RCB,Dubai International Cricket Stadium,24 September 2020
+38,AnrichNortje,4,33,3,8.00,KKR,Sharjah Cricket Stadium,03 October 2020
+39,SamCurran,4,33,3,8.00,RR,Sharjah Cricket Stadium,22 September 2020
+40,AnrichNortje,4,33,3,8.00,RCB,Zayed Cricket Stadium,02 November 2020
+41,JasonHolder,4,33,3,8.00,RR,Dubai International Cricket Stadium,22 October 2020
+42,SandeepSharma,4,34,3,8.00,MI,Sharjah Cricket Stadium,03 November 2020
+43,MohammadShami,4,35,3,8.00,KKR,Sharjah Cricket Stadium,26 October 2020
+44,KagisoRabada,3.4,35,3,7.33,RR,Sharjah Cricket Stadium,09 October 2020
+45,DwayneBravo,4,37,3,8.00,KKR,Zayed Cricket Stadium,07 October 2020
+46,RahulTewatia,4,37,3,8.00,CSK,Sharjah Cricket Stadium,22 September 2020
+47,LungiNgidi,4,38,3,8.00,MI,Zayed Cricket Stadium,19 September 2020
+48,LungiNgidi,4,39,3,8.00,KXIP,Zayed Cricket Stadium,01 November 2020
+49,MohammadShami,4,53,3,8.00,RR,Sharjah Cricket Stadium,27 September 2020
+50,RavichandranAshwin,1,2,2,3.00,KXIP,Dubai International Cricket Stadium,20 September 2020
+51,TrentBoult,2,9,2,6.00,DC,Dubai International Cricket Stadium,05 November 2020
+52,KamleshNagarkoti,2,13,2,6.00,RR,Dubai International Cricket Stadium,30 September 2020
+53,RashidKhan,4,14,2,12.00,KXIP,Dubai International Cricket Stadium,24 October 2020
+54,ShivamMavi,4,15,2,12.00,RR,Dubai International Cricket Stadium,01 November 2020
+55,YuzvendraChahal,4,15,2,12.00,KKR,Zayed Cricket Stadium,21 October 2020
+56,ShivamDube,3,15,2,9.00,SRH,Dubai International Cricket Stadium,21 September 2020
+57,WashingtonSundar,3,16,2,9.00,CSK,Dubai International Cricket Stadium,10 October 2020
+58,ChrisMorris,4,17,2,12.00,KKR,Sharjah Cricket Stadium,12 October 2020
+59,SheldonCottrell,3,17,2,9.00,RCB,Dubai International Cricket Stadium,24 September 2020
+60,MarcusStoinis,2,17,2,6.00,RR,Sharjah Cricket Stadium,09 October 2020
+61,AxarPatel,4,18,2,12.00,RCB,Dubai International Cricket Stadium,05 October 2020
+62,RahulChahar,4,18,2,12.00,KKR,Zayed Cricket Stadium,16 October 2020
+63,DeepakChahar,4,18,2,12.00,RR,Zayed Cricket Stadium,19 October 2020
+64,JaspritBumrah,4,18,2,12.00,KXIP,Zayed Cricket Stadium,01 October 2020
+65,JofraArcher,4,18,2,12.00,KKR,Dubai International Cricket Stadium,30 September 2020
+66,DeepakChahar,4,18,2,12.00,DC,Sharjah Cricket Stadium,17 October 2020
+67,SandeepSharma,4,19,2,12.00,CSK,Dubai International Cricket Stadium,13 October 2020
+68,ShahbazNadeem,4,19,2,12.00,MI,Sharjah Cricket Stadium,03 November 2020
+69,YuzvendraChahal,3.1,19,2,9.50,SRH,Sharjah Cricket Stadium,31 October 2020
+70,JamesPattinson,3.1,19,2,9.50,RR,Zayed Cricket Stadium,06 October 2020
+71,ShivamMavi,4,20,2,12.00,RR,Dubai International Cricket Stadium,30 September 2020
+72,WashingtonSundar,4,20,2,12.00,KKR,Sharjah Cricket Stadium,12 October 2020
+73,RaviBishnoi,4,20,2,12.00,KKR,Sharjah Cricket Stadium,26 October 2020
+74,VarunChakravarthy,4,20,2,12.00,CSK,Dubai International Cricket Stadium,29 October 2020
+75,SandeepSharma,4,20,2,12.00,RCB,Sharjah Cricket Stadium,31 October 2020
+76,VarunChakravarthy,4,20,2,12.00,RR,Dubai International Cricket Stadium,01 November 2020
+77,AnrichNortje,4,21,2,12.00,CSK,Dubai International Cricket Stadium,25 September 2020
+78,JofraArcher,4,21,2,12.00,SRH,Dubai International Cricket Stadium,22 October 2020
+79,KagisoRabada,4,21,2,12.00,SRH,Zayed Cricket Stadium,29 September 2020
+80,AnrichNortje,4,22,2,12.00,RCB,Dubai International Cricket Stadium,05 October 2020
+81,RahulChahar,4,22,2,12.00,CSK,Sharjah Cricket Stadium,23 October 2020
+82,RavichandranAshwin,4,22,2,12.00,RR,Sharjah Cricket Stadium,09 October 2020
+83,MuruganAshwin,4,23,2,12.00,RCB,Sharjah Cricket Stadium,15 October 2020
+84,SheldonCottrell,4,24,2,12.00,DC,Dubai International Cricket Stadium,20 September 2020
+85,TNatarajan,3.5,24,2,11.50,KXIP,Dubai International Cricket Stadium,08 October 2020
+86,KhaleelAhmed,3,24,2,9.00,KXIP,Dubai International Cricket Stadium,08 October 2020
+87,NavdeepSaini,4,25,2,12.00,SRH,Dubai International Cricket Stadium,21 September 2020
+88,KarnSharma,4,25,2,12.00,KKR,Zayed Cricket Stadium,07 October 2020
+89,JaspritBumrah,4,25,2,12.00,CSK,Sharjah Cricket Stadium,23 October 2020
+90,JasonHolder,4,25,2,12.00,MI,Sharjah Cricket Stadium,03 November 2020
+91,BhuvneshwarKumar,4,25,2,12.00,DC,Zayed Cricket Stadium,29 September 2020
+92,VarunChakravarthy,4,25,2,12.00,RR,Dubai International Cricket Stadium,30 September 2020
+93,RashidKhan,4,25,2,12.00,RR,Dubai International Cricket Stadium,11 October 2020
+94,JamesPattinson,4,25,2,12.00,KKR,Zayed Cricket Stadium,23 September 2020
+95,ChrisJordan,4,25,2,12.00,KKR,Sharjah Cricket Stadium,26 October 2020
+96,DwayneBravo,3,25,2,9.00,SRH,Dubai International Cricket Stadium,13 October 2020
+97,AnrichNortje,2.4,25,2,8.00,MI,Dubai International Cricket Stadium,10 November 2020
+98,RahulChahar,4,26,2,12.00,KXIP,Zayed Cricket Stadium,01 October 2020
+99,TNatarajan,4,26,2,12.00,DC,Dubai International Cricket Stadium,27 October 2020
+100,KrunalPandya,4,26,2,12.00,DC,Zayed Cricket Stadium,11 October 2020
